@@ -1,0 +1,2 @@
+0x0156f54bc34063ba9d7b87047565fa5dc98492ce4430282aaea70ddc48de8e4f:/home/aks/Documents/ZKP/starknet/testnile/mynile/lib/python3.9/site-packages/nile/artifacts/abis/Account.json:ACCOUNT_1
+0x06c49eae7774741cf8ee068bd39c9fde2382cbc356d76e69e25fbc6a2b1f16a3:artifacts/abis/contract.json:my_contract
